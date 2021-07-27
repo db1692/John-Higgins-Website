@@ -1,1 +1,77 @@
 
+
+h1 {
+  text-align: center;
+  padding: 1em;
+}
+
+body {
+  font-family: "Montserrat";
+  font-weight: 400;
+}
+
+/* Shop Links */
+.shop-links {
+  margin: 2rem;
+}
+
+/* NavBar */
+.navbar {
+  background-color: #F3F0D7;
+}
+
+.navbar-brand {
+  font-size: 60px;
+}
+
+.nav-link {
+  font-size: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+/* Splash Screen */
+.leadership-pic {
+  padding: 3%;
+  width: 60%;
+}
+
+.intro-text {
+  font-size: 1.5rem;
+  padding: 3%;
+}
+
+/* Bottom Bit */
+.bottom-front-page {
+  text-align: center;
+  height: 30%;
+}
+
+.speak-up-pic {
+  padding:2%;
+}
+
+.bottom-section {
+  background-color: #F3F0D7;
+  margin-bottom: 5px;
+}
+
+.shortlist-pic {
+  /* width: 25%; */
+  /* margin-top: 40%; */
+}
+
+.headshot-pic {
+  width: 65%;
+  padding: 2%;
+}
+
+/* Books & Chapters */
+.book-blurb {
+  font-size: 18px;
+  padding: 2rem;
+}
+
+.vids {
+  margin: 2rem;
+}
